@@ -1,1 +1,1 @@
-A script that displays current directory content in long format, with user and group ids displayed numerically, hidden files starting with .
+script that creates a directory named my_first_directory in the /tmp/ directory
