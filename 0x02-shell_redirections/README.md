@@ -1,1 +1,1 @@
-Write a shell script that creates a file named exactly \*\'Best School\'\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line
+Create a script that displays the 10 newest files in the current directory, one file per line, sorted from newest to oldest
